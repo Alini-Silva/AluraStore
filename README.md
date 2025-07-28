@@ -23,8 +23,16 @@ Apesar de ter o menor frete médio (R$31,28), isso não impacta positivamente no
 Com base nos dados analisados, a Loja 4 apresenta o desempenho mais fraco entre todas. 
 
 🛠️ Ferramentas Utilizadas
-Python
+Python ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 Pandas
 Numpy
 Matplotlib
 Jupyter Notebook
+
+▶️ Como executar o notebook no Google Colab
+Baixe este repositório em formato .zip ou clone via Git.
+Acesse o Google Colab.
+Clique em “Arquivo” > “Carregar notebook” e selecione o arquivo analise_lojas.ipynb.
+Caso o notebook use dados externos, faça upload do arquivo CSV (vendas_lojas.csv) na lateral do Colab (ícone de pastinha > botão de upload).
+Execute as células normalmente.
+Você também pode salvar uma cópia no seu Google Drive para manter o notebook acessível e editável.
